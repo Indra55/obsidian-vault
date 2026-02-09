@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "51d7c0e7ff0986d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a6631130d41285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80c31f64fd1520bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Redis/Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossary"
+            }
+          },
+          {
+            "id": "bc8359b474f94efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-09"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5882df89a5dc838",
+    "type": "split",
+    "children": [
+      {
+        "id": "87313fbbf53d6acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfa647014806480",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "daefd23dfc70da87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7ae02045cd5fcef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0f5fa98dbf4af6b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "804d28c015fcf987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb9db21826ae116",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/Core/Streams & Buffers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Streams & Buffers"
+            }
+          },
+          {
+            "id": "90080150dacd58e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend/Core/Streams & Buffers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Streams & Buffers"
+            }
+          },
+          {
+            "id": "c3347a5834e4732d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "811e6c9526b8e88f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend/Core/Streams & Buffers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Streams & Buffers"
+            }
+          },
+          {
+            "id": "a0fe9d59af46b14a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bc8359b474f94efb",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-02-09.md",
+    "Backend/Glossary.md",
+    "Backend/Redis/Glossary.md",
+    "Backend/Drawing 2026-02-08 14.21.23.excalidraw.md",
+    "Backend/webrtc/2.apis.md",
+    "Backend/webrtc/1.intro.md",
+    "Untitled.md",
+    "Backend/webrtc",
+    "Pasted image 20251224231150.png",
+    "Backend/Projects/Multi-Tenant API Quota & Usage Governance System/Problem Statement.md",
+    "Backend/Redis/CLI - Cheat Sheet.md",
+    "Backend/Redis",
+    "Backend/Projects/Multi-Tenant API Quota & Usage Governance System",
+    "Backend/Projects",
+    "Backend/Rate Limiting/What is Rate limiting?.md",
+    "Backend/Rate Limiting/Types/Sliding Window Counter Algorithm.md",
+    "Backend/Rate Limiting/Types/Sliding Window Log Algorithm.md",
+    "Backend/Rate Limiting/Types/Token Bucket Algorithm.md",
+    "Backend/Rate Limiting/Types/Leaky Bucket.md",
+    "Backend/Rate Limiting/Types/Fixed Window Counter.md",
+    "Backend/Rate Limiting/Types",
+    "Pasted image 20251224230857.png",
+    "Pasted image 20251224230848.png",
+    "Pasted image 20251224230841.png",
+    "Backend/Rate Limiting",
+    "Computer Networks",
+    "Backend/Core/Streams & Buffers.md",
+    "Backend/Core/Micro v Macro.md",
+    "Backend/Internet/How does internet fucking work??.md",
+    "Backend/Core",
+    "Backend/APIs/Auth",
+    "Backend/APIs",
+    "Backend/Internet.md",
+    "Backend.md",
+    "Welcome.md"
+  ]
+}
