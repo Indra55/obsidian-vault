@@ -231,5 +231,4 @@ This forces you to think:
 - Idempotency
     
 - Failure recovery
-    
 

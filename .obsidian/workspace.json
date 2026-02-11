@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Projects/holonet/Scope.md",
+                "file": "Backend/Blogs/RFC 9111.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope"
+              "title": "RFC 9111"
             }
           }
         ],
@@ -200,8 +200,10 @@
   },
   "active": "dea64335850114fa",
   "lastOpenFiles": [
-    "Backend/Projects/holonet/Drawing 2026-02-09 22.28.03.excalidraw.md",
     "Backend/Projects/holonet/Scope.md",
+    "Backend/Blogs/RFC 9111.md",
+    "Backend/Blogs",
+    "Backend/Projects/holonet/Drawing 2026-02-09 22.28.03.excalidraw.md",
     "Backend/images/redse.png",
     "Backend/Projects/holonet",
     "Backend/Redis/Redis Sentinel.md",
@@ -236,7 +238,6 @@
     "Backend/Core/Streams & Buffers.md",
     "Backend/Core/Micro v Macro.md",
     "Backend/Internet/How does internet fucking work??.md",
-    "Backend/Core",
     "Backend/Internet.md",
     "Backend.md",
     "Welcome.md"
