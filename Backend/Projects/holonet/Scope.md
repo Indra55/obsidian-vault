@@ -1,6 +1,4 @@
-
 ![Image](https://media2.dev.to/dynamic/image/width%3D1600%2Cheight%3D900%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnnd2c1i7ksf3ou2fu7q.png)
-
 
 ### What users can do
 
@@ -15,7 +13,7 @@
 
 ✅ AWS EC2  
 ✅ Docker (build + run)  
-✅ CI/CD concepts (build vs deploy separation)  
+✅ CI/CD concepts (build vs <mark style="background: #FFB86CA6;">deploy</mark> separation)  
 ✅ Reverse proxy & networking  
 ✅ DNS & wildcard domains  
 ✅ Logs, failure modes, isolation

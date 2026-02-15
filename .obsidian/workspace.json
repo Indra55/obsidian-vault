@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80c31f64fd1520bb",
+            "id": "dea64335850114fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Scope"
             }
-          },
-          {
-            "id": "dea64335850114fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Blogs/RFC 9111.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RFC 9111"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +160,34 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "a3c42753373c2d57",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7f025609332dc3ed",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,13 +200,33 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "dea64335850114fa",
   "lastOpenFiles": [
-    "Backend/Projects/holonet/Scope.md",
     "Backend/Blogs/RFC 9111.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-conversations/hey@20260211_193716.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "Backend/Projects/holonet/Scope.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Backend/Blogs",
     "Backend/Projects/holonet/Drawing 2026-02-09 22.28.03.excalidraw.md",
     "Backend/images/redse.png",
@@ -214,31 +240,13 @@
     "Backend/Glossary.md",
     "Backend/Drawing 2026-02-08 14.21.23.excalidraw.md",
     "Backend/webrtc/2.apis.md",
-    "Backend/webrtc/1.intro.md",
-    "Untitled.md",
     "Backend/webrtc",
     "Pasted image 20251224231150.png",
-    "Backend/Projects/Multi-Tenant API Quota & Usage Governance System/Problem Statement.md",
     "Backend/Redis",
     "Backend/Projects/Multi-Tenant API Quota & Usage Governance System",
     "Backend/Projects",
-    "Backend/Rate Limiting/What is Rate limiting?.md",
-    "Backend/Rate Limiting/Types/Sliding Window Counter Algorithm.md",
-    "Backend/Rate Limiting/Types/Sliding Window Log Algorithm.md",
-    "Backend/Rate Limiting/Types/Token Bucket Algorithm.md",
-    "Backend/Rate Limiting/Types/Leaky Bucket.md",
-    "Backend/Rate Limiting/Types/Fixed Window Counter.md",
-    "Backend/Rate Limiting/Types",
     "Pasted image 20251224230857.png",
     "Pasted image 20251224230848.png",
-    "Pasted image 20251224230841.png",
-    "Backend/Rate Limiting",
-    "Computer Networks",
-    "Backend/Core/Streams & Buffers.md",
-    "Backend/Core/Micro v Macro.md",
-    "Backend/Internet/How does internet fucking work??.md",
-    "Backend/Internet.md",
-    "Backend.md",
-    "Welcome.md"
+    "Pasted image 20251224230841.png"
   ]
 }

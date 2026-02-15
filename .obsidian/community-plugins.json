@@ -2,5 +2,8 @@
   "obsidian-excalidraw-plugin",
   "remotely-save",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "copilot",
+  "highlightr-plugin"
 ]

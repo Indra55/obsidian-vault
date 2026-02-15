@@ -16,5 +16,14 @@
       ],
       "key": "P"
     }
+  ],
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "C"
+    }
   ]
 }
